@@ -59,3 +59,9 @@ sxsrf=ACYBGNTxM7EZwHhzEi3LOM_4PyjP3ZlixQ%3A1570911206033&ei=5jOiXaHXAcT5sAf
 OwKHXpADs8Q4dUDCAo&uact=5
 - https://www.geeksforgeeks.org/create-a-new-column-in-pandas-dataframe-based-on-the-existingcolumns/
 - http://www.datasciencemadesimple.com/drop-delete-rows-conditions-python-pandas/
+
+
+## License
+MIT License
+
+Copyright (c) 2019 Karina Condeixa
