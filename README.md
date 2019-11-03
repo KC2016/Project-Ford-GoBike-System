@@ -18,21 +18,21 @@ I used Python 3.6 in Jupyter Nobebooks importing  numpy, pandas, matplotlib and 
 
 ## How I made it
 
-After a first exploratory view, I chose to simplify the dataset according my targets. So, I dropped columns
+After a first exploratory view, I chose to simplify the dataset according to my targets. So, I dropped columns
 of the stations (coordinates), and I created columns of age, age group and weekdays. I noticed that the
-gender female has no outliers in informing the date of birth, hence the age.<br/><br/>
+gender female has no outliers in informing the date of birth, hence the age.<br/>
 
 In the exploratory analysis, I explored different types of visualizations for my variables and found
 interesting features. <br/>
-Regarding the users and trips, men and people between 18 and 39 years old are majority
-in trips. Subscribers are also majority in the trips, they use these bikes regularly in weekdays, mainly for
-short trips. Saturday has the lower demand for bikes. Strangely, the behavior of 70+ change on Wednesdays
-and om Fridays, they have a higher variation in the duration of trips.<br/><br/>
+Regarding the users and trips, men and people between 18 and 39 years old are a majority
+on trips. Subscribers are also a majority in the trips, they use these bikes regularly on weekdays, mainly for
+short trips. Saturday has a lower demand for bikes. Strangely, the behavior of 70+ change on Wednesdays
+and on Fridays, they have a higher variation in the duration of trips.<br/>
 
-I chose the results to put in your explanatory analysis according the relevance they have to draw the user
-profile and demands per bike in weekdays.<br/><br/>
+I chose the results to put in your explanatory analysis according to the relevance they have to draw the user
+profile and demands per bike on weekdays.<br/>
 
-I had a good feedback given by a Data Analyst in a preliminary version of the exploratory analysis and I have applied sobe of her suggestions in my project.<br/>
+I had good feedback given by a Data Analyst in a preliminary version of the exploratory analysis and I have applied some of her suggestions in my project.<br/>
 
 ## References
 - https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
