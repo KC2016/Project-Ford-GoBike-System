@@ -1,4 +1,4 @@
-<img src = "images/Ford.png" align="right"><br/><br/>
+<img src = "images/Ford.png" align="right">
 ## Project Ford GoBike System Data, Dataset Exploration
 ### Karina Condeixa
 
