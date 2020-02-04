@@ -1,6 +1,6 @@
-<img src = "images/Ford.png" align="right">
-## Project Ford GoBike System Data, Dataset Exploration<br/>
-### Karina Condeixa<br/>
+<img src = "images/Ford.png" align="right"> <br/>
+## Project Ford GoBike System Data, Dataset Exploration <br/>
+### Karina Condeixa <br/>
 
 Seventh project for my Data Analyst Nanodegree by Udacity. <br/>
 <br/>
