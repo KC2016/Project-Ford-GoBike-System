@@ -1,5 +1,6 @@
-# Project Ford GoBike System Data, Dataset Exploration
-Karina Condeixa
+<img src = "images/Ford.png" align="right"><br/><br/>
+## Project Ford GoBike System Data, Dataset Exploration
+### Karina Condeixa
 
 Seventh project for my Data Analyst Nanodegree by Udacity. <br/>
 <br/>
@@ -8,15 +9,15 @@ The main objective is to Communicate Data Findings from a dataset from Ford GoBi
 Ford GoBike System Data is hosted at https://www.lyft.com/bikes/bay-wheels/system-data. <br/>
 
 
-## Table of Contents
+### Table of Contents
 •	Exploratory analysis<br/>
 •	Explanatory Data Analysis<br/>
 •	Slides<br/>
 
-## Tools
+### Tools
 I used Python 3.6 in Jupyter Nobebooks importing  numpy, pandas, matplotlib and seaborn.<br/>
 
-## How I made it
+### How I made it
 
 After a first exploratory view, I chose to simplify the dataset according to my targets. So, I dropped columns
 of the stations (coordinates), and I created columns of age, age group and weekdays. I noticed that the
@@ -34,7 +35,8 @@ profile and demands per bike on weekdays.<br/>
 
 I had good feedback given by a Data Analyst in a preliminary version of the exploratory analysis and I have applied some of her suggestions in my project.<br/>
 
-## References
+### References
+- image: https://www.lyft.com/bikes/bay-wheels/meet-our-bikes
 - https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
 - http://localhost:8888/notebooks/Documents/07-Programming/Udacity/Nanodegree_DataAnalysis/5-
 Data_visualization/Project/communicate-data-exampleproject/
