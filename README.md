@@ -2,7 +2,7 @@
 ## Project Ford GoBike System Data, Dataset Exploration <br/>
 ### Karina Condeixa <br/>
 
-Seventh project for my Data Analyst Nanodegree by Udacity. <br/>
+Fifth project for my Data Analyst Nanodegree by Udacity. <br/>
 <br/>
 The main objective is to Communicate Data Findings from a dataset from Ford GoBike System Data. I explored data from September of 2019. <br/>
 
@@ -16,6 +16,9 @@ Ford GoBike System Data is hosted at https://www.lyft.com/bikes/bay-wheels/syste
 
 ### Tools
 I used Python 3.6 in Jupyter Nobebooks importing  numpy, pandas, matplotlib and seaborn.<br/>
+
+### Installation (using Anaconda):
+conda install -c anaconda seaborn <br/>
 
 ### How I made it
 
