@@ -1,5 +1,5 @@
 <img src = "images/Ford.png" align="right"> <br/>
-## Project Ford GoBike System Data, Dataset Exploration :bike: :iphone:<br/>
+## Project Ford GoBike System Data, Dataset Exploration :bike: <br/>
 ### Karina Condeixa <br/>
 
 Fifth project for my Data Analyst Nanodegree by Udacity. <br/>
@@ -49,7 +49,7 @@ Interestingly, it seems that only women are careful when entering the birth age 
 - The violin graph shows that most occurrences of Male and Female are by person between 25 and 30.
 
 ### Exploratory analysis: bivariate exploration
-<img src="images/06_users_behaviour.png" width="500" >
+<img src="images/06_users_behaviour.png" width="450" >
 
 - People between 18 and 29 years old are majority on number of trips; then between 30 and 39 and so progressively. That is understandably, younger have more disposition.
 - People until 39 use relatively more these bikes than the older ones, considering the number of trips.
