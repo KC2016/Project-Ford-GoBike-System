@@ -31,6 +31,9 @@ interesting features. <br/>
 ### Preliminary Wrangling
 <img src="images/01_log_transformation.png" width="850" >
 
+
+The **log** was shown the best transformation to deal with *duration_sec*. The oders are too skeewed and hard to interprete.
+
 ### Exploratory analysis: univariate exploration
 
 <img src="images/02_Ntrips_gender.png" width="270"/> <img src="images/03_Ntrips_age_group.png" width="270"/> <img src="images/04_Ntrips_UT.png" width="270" >
