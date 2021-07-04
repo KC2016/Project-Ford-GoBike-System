@@ -10,8 +10,7 @@ Ford GoBike System Data is hosted at https://www.lyft.com/bikes/bay-wheels/syste
 
 
 ### Table of Contents
-- Preliminary Wrangling, univariate, bivariate and multivariate explorations
-- Explanatory Data Analysis
+- Explanatory Data Analysis: Preliminary Wrangling, univariate, bivariate and multivariate
 - Conclusions
 - Slides
 
